@@ -1,0 +1,18 @@
+#这里是添加忽略文件的地方
+#这是添加的python在windows下需要忽略的文件.
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
